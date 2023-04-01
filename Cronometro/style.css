@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body, .wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body{
+  min-height: 100vh;
+  background-color: #4a98f7;
+}
+.wrapper{}
